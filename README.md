@@ -4,6 +4,14 @@ This project implements a **Generative AI powered conversational analytics syste
 
 The system allows users to interact with retail data using natural language queries and obtain business insights in real time.
 
+# GenAI-Powered Retail Sales Analytics Chatbot
+
+## Live Dashboard
+
+Access the interactive chatbot dashboard here:
+
+🔗 https://genai-powered-retail-sales-analytics-chatbot-9umooyheh34stsmcv.streamlit.app
+
 ## Features
 
 - Conversational AI chatbot for retail analytics
