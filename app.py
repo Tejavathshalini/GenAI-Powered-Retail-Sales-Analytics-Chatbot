@@ -35,7 +35,7 @@ def generate_pdf(chat_df):
 
         text = f"Bot: {row['Bot Response']}"
         c.drawString(50, y, text)
-                y -= 30
+        y -= 30
 
         if y < 100:
             c.showPage()
@@ -416,3 +416,4 @@ except:
 
 
     st.info("AI insight unavailable.")  
+
