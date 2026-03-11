@@ -1,4 +1,4 @@
-%%writefile app.py
+
 
 import streamlit as st
 import pandas as pd
@@ -413,5 +413,6 @@ try:
     st.success(insight)
 
 except:
+
 
     st.info("AI insight unavailable.")  
